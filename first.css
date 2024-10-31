@@ -14,7 +14,7 @@ h2{
     margin-bottom: 20px;
 }
 #inc{
-    background-color:brown;
+    background-color:darkgreen;
     font-size: 35px;
     padding-left: 10px;
     padding-right: 10px;
@@ -23,7 +23,7 @@ h2{
     margin-right:20px;
 }
 #dec{
-    background-color:darkgreen;
+    background-color:brown;
     font-size: 35px;
     padding-left: 10px;
     padding-right: 10px;
